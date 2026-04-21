@@ -1,0 +1,15 @@
+## Installation
+
+This study tries to answerr the Research Question: To what extent have Boston food safety inspection outcomes changed over time in terms of volume and severity, and are certain neighborhoods improving or worsening over the past 20 years?
+
+# Data
+
+The data used is [Food Establishment Inspections Boston Data](https://data.boston.gov/dataset/food-establishment-inspections), and was extracted initially on February 15. 
+
+## Usage
+
+In the files you will find a FinalProjectRunningNotebook Jupyter notebook with the code to run both the analysis, model, and all the graphics generated. 
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
