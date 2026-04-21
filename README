@@ -10,6 +10,8 @@ The data used is [Food Establishment Inspections Boston Data](https://data.bosto
 
 In the files you will find a FinalProjectRunningNotebook Jupyter notebook with the code to run both the analysis, model, and all the graphics generated. 
 
+PosterDS_CelesteDeudon is the final poster for the DS Capstone Presentation (presented on April 28th 2026) to show findings and process.
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
