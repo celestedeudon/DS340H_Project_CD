@@ -12,7 +12,7 @@ GitHub allows 25MB csv file uploads, so in the "Data" folder you will find 15 su
 
 ## Usage
 
-In the files you will find a FinalProjectRunningNotebook Jupyter notebook with the code to run both the analysis, model, and all the graphics generated. (InitialExploration(HW7) is not needed for this study, it is simply a marker for keeping track of process, all final data exploration and cleaning required for the study is included in the final file)
+In the files you will find a FinalProjectRunningNotebook Jupyter notebook with the code to run both the analysis, model, and all the graphics generated. (InitialExplorationCleaning(HW7) is not needed for this study, it is simply a marker for keeping track of process, all final data exploration and cleaning required for the study is included in the final file)
 
 PosterDS_CelesteDeudon is the final poster for the DS Capstone Presentation (presented on April 28th 2026) to show findings and process.
 
