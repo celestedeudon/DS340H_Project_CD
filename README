@@ -1,10 +1,14 @@
 ## Installation
 
-This study tries to answerr the Research Question: To what extent have Boston food safety inspection outcomes changed over time in terms of volume and severity, and are certain neighborhoods improving or worsening over the past 20 years?
+This study tries to answer the Research Question: To what extent have Boston food safety inspection outcomes changed over time in terms of volume and severity, and are certain neighborhoods improving or worsening over the past 20 years?
+
+This study was done for the final project of the Data Scinec major Captsone. 
 
 # Data
 
 The data used is [Food Establishment Inspections Boston Data](https://data.boston.gov/dataset/food-establishment-inspections), and was extracted initially on February 15 2026.
+
+GitHub allows 25MB csv file uploads, so in the "Data" folder you will find 15 subsets that make up the total data set. If you download all 15 subsets, the code in FinalProjectRunningNotebook Jupyter Nitebook file will combine the 15 subsets on its own (there are no additional steps apart from having the 15 subsets and that Jupyter file). 
 
 ## Usage
 
@@ -12,6 +16,3 @@ In the files you will find a FinalProjectRunningNotebook Jupyter notebook with t
 
 PosterDS_CelesteDeudon is the final poster for the DS Capstone Presentation (presented on April 28th 2026) to show findings and process.
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
